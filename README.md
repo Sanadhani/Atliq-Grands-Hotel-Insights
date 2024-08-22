@@ -1,1 +1,2 @@
-# Atliq-Grands-Hotel-Insights
+- AtliQ Grands, a network of five-star hotels in India with a 20-year presence, faced declining market share and revenue due to rising competition and poor management decisions.
+- The performance of Atliq Grands Properties across the country for May, June, and July was analysed.
